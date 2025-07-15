@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Victor Lees
 
-🔭 **I’m currently working on:**  
-- My final capstone at Drexel University, building a deep learning pipeline to detect defects in sports trading cards using computer vision.  
+🔭 **I’m currently working on: completing my Master's Degree in AI and Machine Learning from Drexel University**  
+- My final Capstone2, building a deep learning pipeline to detect defects in sports trading cards using computer vision.  
 - AI-powered assistants using Retrieval-Augmented Generation (RAG), Supabase, and OpenAI to answer career and HR-related questions.
 
 🌱 **I’m currently learning:**  
